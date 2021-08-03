@@ -1,4 +1,4 @@
-<h1><b>Hello there <h6>world</h6>! 😆</b></h1>
+<h1><b>Hello there! 😆</b></h1>
 
 - 👋&nbsp; I'm ***f1shy-dev***, a self-taught full-stack developer (and *partial* designer)! 
 - 🎨&nbsp; I also do design and have interest in games such as [Minecraft](https://minecraft.net), [Valorant](https://playvalorant.com/) and [Beat Saber](http://beatsaber.com/). 
